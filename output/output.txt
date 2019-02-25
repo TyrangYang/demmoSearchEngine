@@ -1,0 +1,30 @@
+nl 
+./input/nltk Package — NLTK 3.4 documentation.html 184 6 https://www.nltk.org/api/nltk.html
+./input/NLTK News — NLTK 3.4 documentation.html 160 2 https://www.nltk.org/news.html
+./input/FAQ-nltk Wiki.html 50 4 https://github.com/nltk/nltk/wiki/FAQ
+./input/Installing NLTK Data — NLTK 3.4 documentation.html 29 3 https://www.nltk.org/data.html
+./input/Natural Language Toolkit — NLTK 3.4 documentation.html 19 1 https://www.nltk.org
+./input/Home-nltk Wiki.html 7 5 https://github.com/nltk/nltk/wiki
+add da nl 
+./input/nltk Package — NLTK 3.4 documentation.html 295 6 https://www.nltk.org/api/nltk.html
+./input/NLTK News — NLTK 3.4 documentation.html 178 2 https://www.nltk.org/news.html
+./input/Installing NLTK Data — NLTK 3.4 documentation.html 52 3 https://www.nltk.org/data.html
+./input/FAQ-nltk Wiki.html 51 4 https://github.com/nltk/nltk/wiki/FAQ
+./input/Natural Language Toolkit — NLTK 3.4 documentation.html 20 1 https://www.nltk.org
+./input/Home-nltk Wiki.html 7 5 https://github.com/nltk/nltk/wiki
+time update 
+./input/nltk Package — NLTK 3.4 documentation.html 13 6 https://www.nltk.org/api/nltk.html
+./input/NLTK News — NLTK 3.4 documentation.html 4 2 https://www.nltk.org/news.html
+./input/FAQ-nltk Wiki.html 4 4 https://github.com/nltk/nltk/wiki/FAQ
+./input/Home-nltk Wiki.html 1 5 https://github.com/nltk/nltk/wiki
+add nlg 
+./input/nltk Package — NLTK 3.4 documentation.html 8 6 https://www.nltk.org/api/nltk.html
+./input/NLTK News — NLTK 3.4 documentation.html 4 2 https://www.nltk.org/news.html
+web 
+./input/Installing NLTK Data — NLTK 3.4 documentation.html 2 3 https://www.nltk.org/data.html
+./input/NLTK News — NLTK 3.4 documentation.html 1 2 https://www.nltk.org/news.html
+./input/nltk Package — NLTK 3.4 documentation.html 1 6 https://www.nltk.org/api/nltk.html
+web 
+./input/Installing NLTK Data — NLTK 3.4 documentation.html 2 3 https://www.nltk.org/data.html
+./input/NLTK News — NLTK 3.4 documentation.html 1 2 https://www.nltk.org/news.html
+./input/nltk Package — NLTK 3.4 documentation.html 1 6 https://www.nltk.org/api/nltk.html

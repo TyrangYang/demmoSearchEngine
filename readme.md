@@ -53,7 +53,7 @@ and use most frequent keyword to search.
 The input file is download from website. All page is from about NLTK 3.4 documentation. 
 
 ## Reference
-Beautiful soup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+Beautiful soup: https://www.crummy.com/software/BeautifulSoup/bs4/doc
 NLTK: https://www.nltk.org
 NLTK example code: https://blog.csdn.net/hzp666/article/details/79373720
 Replace English punctuation with spaces: https://blog.csdn.net/hang916/article/details/83832381

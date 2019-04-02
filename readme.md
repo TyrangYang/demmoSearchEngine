@@ -13,14 +13,14 @@ Implement the simplified Search Engine described in Section 23.5.4 for the pages
 1. Please make sure that you have python 3.
 2. install beatifulsoup4 and nltk by using pip3.
 ```
-	sudo pip3 install beautifulsoup4
-	sudo pip3 install nltk
+sudo pip3 install beautifulsoup4
+sudo pip3 install nltk
 ```
 3. cd to the document where searchEngine.py is.
 4. run searchEngine.py. 
 ```
-	python3 searchEngine.py
-	(DO NOT RUN "python searchEngine.py")
+python3 searchEngine.py
+(DO NOT RUN "python searchEngine.py")
 ```
 
 ## Search
@@ -47,14 +47,14 @@ When you search a key in trie, that will return a number which associate to colu
 
 The structure of each column is like: 
 ```
-	[keyword, totalFreq, [(fileAddress, freq, pageSeq, webAddress),...,...]].
-	keyword - a key word.
-	totalFreq - how many times that this keyword appear in all page.
-	page detail:(fileAddress, freq, pageSeq, webAddress)
-	fileAddress - where this page store in disk
-	freq - how many times that this keyword appear in this page.
-	pageSeq - the sequence number of this page
-	webAddress - web address of this page
+[keyword, totalFreq, [(fileAddress, freq, pageSeq, webAddress),...,...]].
+keyword - a key word.
+totalFreq - how many times that this keyword appear in all page.
+page detail:(fileAddress, freq, pageSeq, webAddress)
+fileAddress - where this page store in disk
+freq - how many times that this keyword appear in this page.
+pageSeq - the sequence number of this page
+webAddress - web address of this page
 ```
 
 ## Rank algorithm
